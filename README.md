@@ -7,6 +7,17 @@ In this challenge, I helped Jeremy and the data analytics team to do the followi
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
 
+# Resources :
+- Data Source:
+  - [MechaCar_mpg.csv](https://github.com/namu12345/MechaCar_Statistical_Analysis/blob/main/MechaCar_mpg.csv)
+  - [Suspension_Coil.csv](https://github.com/namu12345/MechaCar_Statistical_Analysis/blob/main/Suspension_Coil.csv)
+
+- Software:
+
+  - RStudio
+  - Languages: R
+
+## 
 This assignment consists of three technical analysis deliverables and a proposal for further statistical study :
 
 # Deliverable 1:
